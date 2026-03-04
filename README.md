@@ -54,7 +54,7 @@ All examples use: Lazaro Ludoviko Zamenhof, *Unua Libro*, Kelter, 1887.
 
 ## Requirements
 
-- Omeka Classic 2.0 or higher
+- Omeka Classic 3.1 or higher
 
 ## Troubleshooting
 
