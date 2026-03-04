@@ -1,4 +1,4 @@
-# Custom Citation — Italian Translation
+# Custom Citation — Esperanto Translation
 # Copyright (C) 2018-2026 Daniele Binaghi
 # This file is distributed under the same license as the Custom Citation plugin.
 #
@@ -7,77 +7,75 @@ msgstr ""
 "Project-Id-Version: CustomCitation 2.0\n"
 "Report-Msgid-Bugs-To: https://github.com/DBinaghi/CustomCitation/issues\n"
 "POT-Creation-Date: 2026-03-04 00:00+0000\n"
-"PO-Revision-Date: 2026-03-04 00:00+0000\n"
+"PO-Revision-Date: 2026-03-04 19:30+0100\n"
 "Last-Translator: Daniele Binaghi\n"
-"Language-Team: Italian\n"
-"Language: it\n"
+"Language-Team: Esperanto\n"
+"Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 # --- Shared citation words ---
-
 msgid "and"
-msgstr "e"
+msgstr "kaj"
 
 msgid "et al."
-msgstr "et al."
+msgstr "k.a."
 
 msgid "n.d."
 msgstr "s.d."
 
 msgid "Retrieved"
-msgstr "Recuperato"
+msgstr "Prenita"
 
 msgid "from"
-msgstr "da"
+msgstr "de"
 
 msgid "Accessed"
-msgstr "Consultato"
+msgstr "Konsultita"
 
 msgid "Available at:"
-msgstr "Disponibile su:"
+msgstr "Disponebla ĉe:"
 
 msgid "Accessed:"
-msgstr "Consultato:"
+msgstr "Konsultita:"
 
 msgid "Available:"
-msgstr "Disponibile:"
+msgstr "Disponebla:"
 
 msgid "accessed"
-msgstr "consultato"
+msgstr "konsultita"
 
 # --- Config form: general ---
-
 msgid "Citation style"
-msgstr "Stile di citazione"
+msgstr "Citaĵostilo"
 
 msgid "Choose the citation style for your site."
-msgstr "Scegli lo stile di citazione per il tuo sito."
+msgstr "Elektu la citaĵostilon por via retejo."
 
 msgid "Show example ▼"
-msgstr "Mostra esempio ▼"
+msgstr "Montri ekzemplon ▼"
 
 msgid "Hide example ▲"
-msgstr "Nascondi esempio ▲"
+msgstr "Kaŝi ekzemplon ▲"
 
 msgid "Add Collection"
-msgstr "Aggiungi collezione"
+msgstr "Aldoni kolekton"
 
 msgid "Add collection info to citation."
-msgstr "Aggiunge il titolo della collezione alla citazione."
+msgstr "Aldonas la titolon de la kolekto al la citaĵo."
 
 # --- Config form: style labels ---
-
 msgid "Omeka default style"
-msgstr "Stile predefinito di Omeka"
+msgstr "Defaŭlta stilo de Omeka"
 
 msgid "APA"
 msgstr "APA"
 
 msgid "Chicago / Turabian"
-msgstr "Chicago / Turabian"
+msgstr "Ĉikago / Turabian"
 
 msgid "Harvard"
 msgstr "Harvard"
@@ -89,51 +87,48 @@ msgid "MLA"
 msgstr "MLA"
 
 msgid "Wikipedia"
-msgstr "Wikipedia"
+msgstr "Vikipedio"
 
 # --- Config form: style descriptions ---
-
 msgid "Uses the built-in Omeka citation format without any modification."
-msgstr "Utilizza il formato di citazione integrato di Omeka senza alcuna modifica."
+msgstr "Uzas la enkonstruitan citaĵoformaton de Omeka sen ia ajn ŝanĝo."
 
 msgid "Author-date style published by the American Psychological Association. Widely used in social sciences, education and psychology."
-msgstr "Stile autore-data pubblicato dall'American Psychological Association. Ampiamente utilizzato nelle scienze sociali, nell'istruzione e in psicologia."
+msgstr "Aŭtor-data stilo eldonita de la Amerika Psikologia Asocio. Vaste uzata en sociaj sciencoj, edukado kaj psikologio."
 
 msgid "Style published by the University of Chicago Press. Widely used in history, arts and social sciences."
-msgstr "Stile pubblicato dalla University of Chicago Press. Ampiamente utilizzato nella storia, nelle arti e nelle scienze sociali."
+msgstr "Stilo eldonita de la Universitato de Ĉikago. Vaste uzata en historio, artoj kaj sociaj sciencoj."
 
 msgid "Author-date style widely used in UK universities and in natural and social sciences."
-msgstr "Stile autore-data ampiamente utilizzato nelle università britanniche e nelle scienze naturali e sociali."
+msgstr "Aŭtor-data stilo vaste uzata en britaj universitatoj kaj en naturaj kaj sociaj sciencoj."
 
 msgid "Numbered reference style published by the Institute of Electrical and Electronics Engineers. Standard in engineering, computer science and technology."
-msgstr "Stile a riferimento numerato pubblicato dall'Institute of Electrical and Electronics Engineers. Standard nell'ingegneria, nell'informatica e nella tecnologia."
+msgstr "Numerita referenca stilo eldonita de la Instituto de Elektraj kaj Elektronikaj Inĝenieroj. Norma en inĝenierado, komputado kaj teknologio."
 
 msgid "Style published by the Modern Language Association. Common in humanities, literature and language studies."
-msgstr "Stile pubblicato dalla Modern Language Association. Diffuso nelle discipline umanistiche, nella letteratura e negli studi linguistici."
+msgstr "Stilo eldonita de la Moderna Lingva Asocio. Ofta en homansciencoj, literaturo kaj lingvostudoj."
 
 msgid "Chicago-based style used in Wikipedia references. Suitable for encyclopaedic and general-purpose archives."
-msgstr "Stile basato su Chicago, utilizzato nelle citazioni di Wikipedia. Adatto ad archivi enciclopedici e di uso generale."
+msgstr "Ĉikago-bazita stilo uzata en Vikipediaj referencoj. Taŭga por enciklopediaj kaj ĝeneralcelaj arkivoj."
 
 # --- Config form: examples ---
-
 msgid "Zamenhof, Lazaro Ludoviko, \"Unua Libro,\" <em>Omeka Test</em>, last accessed March 04, 2026, http://example.com"
-msgstr "Zamenhof, Lazaro Ludoviko, \"Unua Libro,\" <em>Omeka Test</em>, ultimo accesso il 04 marzo 2026, http://example.com"
+msgstr "Zamenhof, Lazaro Ludoviko, \"Unua Libro,\" <em>Omeka Test</em>, laste konsultita la 4-an de marto 2026, http://example.com"
 
 msgid "Zamenhof, L. L. (1887). <em>Unua Libro</em>. Kelter. Retrieved March 4, 2026, from http://example.com"
-msgstr "Zamenhof, L. L. (1887). <em>Unua Libro</em>. Kelter. Recuperato il 4 marzo 2026 da http://example.com"
+msgstr "Zamenhof, L. L. (1887). <em>Unua Libro</em>. Kelter. Prenita la 4-an de marto 2026 de http://example.com"
 
 msgid "Zamenhof, Lazaro Ludoviko. <em>Unua Libro</em>. Kelter, 1887. Accessed March 4, 2026. http://example.com"
-msgstr "Zamenhof, Lazaro Ludoviko. <em>Unua Libro</em>. Kelter, 1887. Consultato il 4 marzo 2026. http://example.com"
+msgstr "Zamenhof, Lazaro Ludoviko. <em>Unua Libro</em>. Kelter, 1887. Konsultita la 4-an de marto 2026. http://example.com"
 
 msgid "Zamenhof, L. L. (1887) <em>Unua Libro</em>. Kelter. Available at: http://example.com (Accessed: 4 March 2026)"
-msgstr "Zamenhof, L. L. (1887) <em>Unua Libro</em>. Kelter. Disponibile su: http://example.com (Consultato: 4 marzo 2026)"
+msgstr "Zamenhof, L. L. (1887) <em>Unua Libro</em>. Kelter. Disponebla ĉe: http://example.com (Konsultita: la 4-an de marto 2026)"
 
 msgid "[1] L. L. Zamenhof, <em>Unua Libro</em>, Kelter, 1887. Accessed: Mar. 4, 2026. [Online]. Available: http://example.com"
-msgstr "[1] L. L. Zamenhof, <em>Unua Libro</em>, Kelter, 1887. Consultato: 4 mar. 2026. [Online]. Disponibile: http://example.com"
+msgstr "[1] L. L. Zamenhof, <em>Unua Libro</em>, Kelter, 1887. Konsultita: la 4-an de mar. 2026. [Rete]. Disponebla: http://example.com"
 
 msgid "Zamenhof, Lazaro Ludoviko. <em>Unua Libro</em>. Kelter, 1887. Accessed 4 Mar. 2026. http://example.com"
-msgstr "Zamenhof, Lazaro Ludoviko. <em>Unua Libro</em>. Kelter, 1887. Consultato il 4 mar. 2026. http://example.com"
+msgstr "Zamenhof, Lazaro Ludoviko. <em>Unua Libro</em>. Kelter, 1887. Konsultita la 4-an de mar. 2026. http://example.com"
 
 msgid "Zamenhof Lazaro Ludoviko (1887), <em>Unua Libro</em>, Kelter, accessed March 4th, 2026, http://example.com"
-msgstr "Zamenhof Lazaro Ludoviko (1887), <em>Unua Libro</em>, Kelter, consultato il 4 marzo 2026, http://example.com"
-
+msgstr "Zamenhof Lazaro Ludoviko (1887), <em>Unua Libro</em>, Kelter, konsultita la 4-an de marto 2026, http://example.com"
